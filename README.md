@@ -40,6 +40,7 @@ To run tests:
 Requirements
 ------------
 
+* Linux (for epoll)
 * Python 3.6/3.7
 * pytest
 
